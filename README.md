@@ -6,3 +6,5 @@ You can also paste values into the console.
 Remember to comment one of the lines:
 - jsonString = getInputFromConsole()
 - jsonString = getInputFromFile()
+
+Chart will pop up in browser window.
